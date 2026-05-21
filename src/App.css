@@ -1,0 +1,41 @@
+body {
+    margin: 20px;
+    background-color:bisque;
+    color:coral;
+    text-align: center;
+    font-family: cursive;
+}
+
+select{
+    background-color:darksalmon;
+    border-color: rgb(255, 135, 135);
+    border-style:none;
+    color: white;
+    border-radius: 40px;
+    font-family: cursive;
+    font-size: medium;
+}
+
+ul{
+    list-style: none;
+}
+
+input[type="checkbox"]:checked {
+    accent-color: white;
+}
+
+input[type="number"] {
+    border: none;
+    border-radius: 20px;
+    color: chocolate;
+    font-size: medium;
+}
+
+.wybor {
+    font-size: larger;
+}
+.wynik {
+    border-style: dotted;
+    border: 5px ;
+    font-size: medium;
+}
